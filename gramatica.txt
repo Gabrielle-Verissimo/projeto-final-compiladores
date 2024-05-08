@@ -1,0 +1,5 @@
+Texto → Sentença. | Sentença. Texto
+Sentença → Sintagma_nominal Sintagma_verbal
+Sintagma_nominal → Substantivo | Artigo substantivo
+Sintagma_verbal → verbo | verbo Sintagma_verbal
+Artigo → a | o | um | uma
